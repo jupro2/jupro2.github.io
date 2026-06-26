@@ -15,11 +15,16 @@ theme = "PaperMod"
 
 [params.homeInfoParams]
   Title = "你好，我是 Aeolus 👋"
-  Content = "这里是我的个人主页，我会在这里记录技术、项目和生活。"
+  Content = "Wish there have interest."
 
 [[params.socialIcons]]
   name = "github"
   url = "https://github.com/jupro2"
+
+ 
+[[params.socialIcons]]
+  name = "x"
+  url = "https://x.com/jasonbe99924141"
 
 [[menu.main]]
   identifier = "posts"
