@@ -14,8 +14,8 @@ theme = "PaperMod"
   ShowCodeCopyButtons = true
 
 [params.homeInfoParams]
-  Title = "你好，我是 Aeolus 👋"
-  Content = "Wish there have interest."
+  Title = "Aeolus"
+  Content = "Notes, research, tools, and life."
 
 [[params.socialIcons]]
   name = "github"
