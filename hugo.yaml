@@ -1,0 +1,20 @@
+baseURL: https://example.org/
+locale: zh-cn
+title: 我的博客
+copyright: "© 2026 我的博客"
+
+caches:
+  images:
+    dir: :cacheDir/images
+
+menus:
+  main:
+    - name: POST
+      pageRef: /
+      weight: 10
+    - name: ABOUT
+      pageRef: /about
+      weight: 20
+
+params:
+  description: 记录思考、学习与生活。
