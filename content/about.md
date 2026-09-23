@@ -2,6 +2,12 @@
 title: About
 ---
 
-你好，这里是我的个人博客。
+A graduate student who was ruined by AI.
 
-我会在这里记录阅读、思考与生活。你可以直接编辑 `content/about.md`，将这段文字替换成自己的介绍。
+My current research focus is on identifying encrypted circumvention traffic.
+
+This is a place to spout trash talk.
+
+
+
+[x](https://x.com/jasonbe99924141) 
